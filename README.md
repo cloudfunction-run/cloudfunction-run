@@ -10,6 +10,7 @@ to deploy cloud functions.
 - AWS Lambda
 - OpenFAAS
 - Knative
+- Proxy existing APIs
 - New solution?
 
 ## Components
