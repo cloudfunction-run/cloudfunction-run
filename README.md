@@ -17,3 +17,5 @@ to deploy cloud functions.
 - Run backend (proxy, accounting)
 - Core API client libraries
 - Function run libraries
+- Landing page
+- 'console' web app
